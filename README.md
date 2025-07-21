@@ -1,5 +1,4 @@
-# Personal_budget_tracker
-Developed a personal budget tracker to manage income, expenses, and savings with visual reports. Implemented features like category-wise tracking, budget alerts, and responsive UI using HTML, CSS, JS, and AngularJS.
+
 Budget Tracker System
 A simple and intuitive web application that helps users track income, expenses, and maintain control over their financial goals. This Budget Tracker System allows real-time updates, detailed summaries, and a user-friendly interface for managing personal budgets efficiently.
 
