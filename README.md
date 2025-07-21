@@ -8,12 +8,14 @@ A simple and intuitive web application that helps users track income, expenses, 
 👉 Look Demo https://drive.google.com/file/d/1Qn3TDdZuQhSy1FOtNEYqqewJtcLzC4ze/view
 
 🧰 Tech Stack
+
 Frontend: HTML, CSS, JavaScript (or React if applicable)
 Backend: Node.js, Express (optional)
 Database: MongoDB / LocalStorage / Firebase (choose one)
 Deployment: Vercel / Netlify / GitHub Pages
 
 🎯 Key Features
+
 📥 Add income and expenses
 📊 Visual breakdown of spending
 📆 Track transactions by date
